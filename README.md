@@ -2,6 +2,8 @@
 
 Budget Allocation Web App build with React.js and Bootstrap CSS.
 
+![Screenshot React Budget Allocation App](/public/budget_allocation.png)
+
 Clone this project to get started, and:
 
 ```
